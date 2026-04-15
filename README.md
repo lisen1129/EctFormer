@@ -1,2 +1,2 @@
 # EctFormer
-EctFormer: Elevating Deep Image Steganography to New Heights
+EctFormer: High-Imperceptibility Deep Image Steganography Based on Empirical Mode Decomposition
